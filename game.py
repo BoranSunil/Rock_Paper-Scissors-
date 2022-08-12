@@ -21,7 +21,7 @@ def check_win(player, computer):
       return "You win!"
     else:
       return "You loose."
-  elif player == "scissiors":
+  elif player == "scissors":
     if computer == "paper":
       return "You win!"
     else:
